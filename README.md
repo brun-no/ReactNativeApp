@@ -15,9 +15,9 @@ React native app é um conjunto de telas com diferentes funcionalidades, que foi
 
 ## Screenshots
 
-![App Screenshot1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXos7j5U_flRxKZZyNGYmHGGbcENgevRtr1OZK6ST-0S6gae-xcbQdV7ZIUMp8B9UQ_u9wET5boC0J-MbAGq2Sm9zmLLNDmFkn8Ee56za3bw5k2LRcn3k0Owcg2aXBJcDwPgsqdlweJksuzu-4fPHbz5YXpbEwo6Fbnq-yKznJ1wgQr28vOYImMGGc/s16000/CPT2306181553-333x747.gif) 
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXos7j5U_flRxKZZyNGYmHGGbcENgevRtr1OZK6ST-0S6gae-xcbQdV7ZIUMp8B9UQ_u9wET5boC0J-MbAGq2Sm9zmLLNDmFkn8Ee56za3bw5k2LRcn3k0Owcg2aXBJcDwPgsqdlweJksuzu-4fPHbz5YXpbEwo6Fbnq-yKznJ1wgQr28vOYImMGGc/s16000/CPT2306181553-333x747.gif) 
 
-![App Screenshot2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrNoCdCRm5rrubiYYhJc87flVBU0RMnu_LsFusdpUkxZSNN64EDP-XmJarWfVr2Ycfsp7pkP0DKgeNg64WZWL_zgRGYvjEMIhZjHUlJn5CwGvHsExGLs60EMp4HwK_T-luesDkny7skRlMl6KqkE3wVAhqKMP2hFfV2Mp6qnv66oBMrt1CqHgjURb/s16000/CPT2306181525-333x747.gif)
+![Logo](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVrNoCdCRm5rrubiYYhJc87flVBU0RMnu_LsFusdpUkxZSNN64EDP-XmJarWfVr2Ycfsp7pkP0DKgeNg64WZWL_zgRGYvjEMIhZjHUlJn5CwGvHsExGLs60EMp4HwK_T-luesDkny7skRlMl6KqkE3wVAhqKMP2hFfV2Mp6qnv66oBMrt1CqHgjURb/s16000/CPT2306181525-333x747.gif)
 
 
 
