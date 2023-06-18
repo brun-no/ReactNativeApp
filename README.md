@@ -10,7 +10,7 @@ React native app é um conjunto de telas com diferentes funcionalidades, que foi
 
 ## Demonstração
 
-- [Acesse a aplicação pelo seu navegador](https://raw.githubusercontent.com/brun-no/assets/main/react.png?token=GHSAT0AAAAAACDN7MXOACXOF7FJCNI2UMSMZEPOVRA)
+- [Acesse a aplicação pelo seu navegador](https://snack.expo.dev/@brunno_u/react-native-app)
 
 
 ##  Layout
